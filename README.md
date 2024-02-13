@@ -1,6 +1,4 @@
 
-Official repository to: 
-
 <!-- # NeutrEx -->
 <h1 align="center"> Efficient Expression Neutrality Estimation with Application to Face Recognition Utility Prediction</h1>
 <p align="center">
