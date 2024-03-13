@@ -11,9 +11,9 @@
     <a href="https://www.ntnu.edu/employees/christoph.busch"><strong>Christoph Busch</strong></a>
 
   </p>
-  <!--<h2 align="center">IJCB 2023</h2>
+  <h2 align="center">Accepted at IWBF 2024 </h2>
   <div align="center">
-  </div>-->
+  </div>
 
 This repository contains the official implementation of the paper [Efficient Expression Neutrality Estimation with Application to Face Recognition Utility Prediction](https://arxiv.org/abs/2402.05548).
 
