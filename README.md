@@ -17,4 +17,4 @@
 
 This repository contains the official implementation of the paper [Efficient Expression Neutrality Estimation with Application to Face Recognition Utility Prediction](https://arxiv.org/abs/2402.05548).
 
-All pre-trained classifiers are available for download [here](https://cloud.h-da.de/s/nHdxTPrzi6rmCpw). Inference scripts for expression neutrality estimation are coming soon.
+All pre-trained classifiers are available for download [here](https://cloud.h-da.de/s/WRABYAxrxNFYjan). Inference scripts for expression neutrality estimation are coming soon.
